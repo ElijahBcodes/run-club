@@ -1,3 +1,47 @@
+
+🏔️ Trail Running Run Club
+
+Welcome to the Trail Running Run Club!
+We’re a community of runners who thrive on dirt, elevation gain, and the adventure that comes with exploring trails.
+
+🌲 About Us
+
+We’re not just about running fast — we’re about running free. Whether it’s grinding uphill, cruising downhill, or sharing miles with friends, our goal is to enjoy the outdoors while pushing ourselves on the trails.
+
+🚀 What We Do
+
+Weekly group trail runs 🏃‍♂️
+
+Focus on elevation & technical terrain ⛰️
+
+Encourage all skill levels (from first-timers to mountain goats)
+
+Track and share runs, photos, and progress
+
+🛠️ Project Goals
+
+This repository is for organizing and documenting our trail running adventures:
+
+📅 Event planning & routes
+
+🗺️ GPX files and maps
+
+📸 Photos and stories from the trails
+
+📊 Tracking elevation & distance
+
+🤝 How to Join
+
+Lace up your trail shoes.
+
+Bring a sense of adventure.
+
+Join us on the next run!
+
+📍 Motto
+
+“More dirt. More vert. More fun.”
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
