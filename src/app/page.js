@@ -2,27 +2,21 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="hero bg-base-200 min-h-screen">
-
-  <div className="hero-content flex-col lg:flex-row-reverse">
-    
-    <div className="text-center lg:text-left">
-      <h1 className="text-5xl font-bold">Join now!</h1>
-      <p className="py-6">
-        Welcome to the San Diego Mella Run Club. We like to run and drink Melas post run.
+    <div
+  className="hero min-h-screen"
+  style={{
+    backgroundImage:
+      "url(https://images.unsplash.com/photo-1590950995235-a099ca2c39f3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW91bnRhaW4lMjB0cmFpbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=600&w=2000)",
+  }}
+>
+  <div className="hero-overlay"></div>
+  <div className="hero-content text-neutral-content text-center">
+    <div className="max-w-md">
+      <h1 className="mb-5 text-5xl font-bold">Welcome to the Sky Crew Run Club</h1>
+      <p className="mb-5">
+        Join us for our weekly trail runs on Tuesday or Thursday in Mission Trails Regional Park.
       </p>
-    </div>
-    <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
-      <div className="card-body">
-        <fieldset className="fieldset">
-          <label className="label">Email</label>
-          <input type="email" className="input" placeholder="Email" />
-          <label className="label">Password</label>
-          <input type="password" className="input" placeholder="Password" />
-          <div><a className="link link-hover">Forgot password?</a></div>
-          <button className="btn btn-neutral mt-4">Login</button>
-        </fieldset>
-      </div>
+      <button className="btn btn-primary">Join Us</button>
     </div>
   </div>
 </div>
